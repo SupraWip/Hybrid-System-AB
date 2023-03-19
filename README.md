@@ -13,3 +13,8 @@ Tutorial video:
 You can find me in the follow discord server: 
 
 
+QnA:
+Q: Is it possible to do tri-engined car (2 eletric motors and 1 ICE)?
+A: Yes it is possible! Very hard to do, mostly depending on your setup.
+
+
