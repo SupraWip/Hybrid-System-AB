@@ -7,4 +7,9 @@ I want to hear feedback, but also need your help, so it can be future ready in c
 
 Also special thanks to wollank for letting me using the LUA file for this, if it wasn't for that, this would be like any hybrid(janky reverse and electric mode)! 
 
+Tutorial video:
+
+
 You can find me in the follow discord server: 
+
+
