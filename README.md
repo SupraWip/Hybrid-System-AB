@@ -1,4 +1,4 @@
-# Hybrid-System-AB
+# Hybrid-System-SW
 <h3>An Hybrid System that you can use to your cars (Beamng / Automation)</h3>
 <br>
 This project of mine has been around since january in the works, originally this hybrid system was a dual electric system that I worked with Galactis, but as I found out, it also works, but of course there are issues that still need to be fixed, and that's where you come in!
